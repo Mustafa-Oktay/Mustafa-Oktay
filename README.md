@@ -1,16 +1,17 @@
-<h1 align="center">Hi there, I'm Mustafa 👋</h1>
+<h1 align="center">✨ Hey, I'm Mustafa! ✨</h1>
 
 <p align="center">
-  🚀 A 21-year-old developer learning and building cool stuff  
+  <strong>21-year-old software development student</strong><br/>
+  Learning modern web & mobile technologies and building clean, user-friendly interfaces.
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🌱 Currently learning **HTML**, **CSS**, **SASS**, **JavaScript**, **Node.js**, **React**, and **React Native**  
-- 💡 I love creating clean, fast, and modern web & mobile interfaces  
-- 📁 I upload my projects here as I grow in my developer journey  
-- 🎯 Goal: Become a full-stack developer and build real-world applications  
+## 🚀 About Me
+- 🌱 Currently learning **HTML**, **CSS/SCSS**, **JavaScript**, **Node.js**, **React**, and **React Native**
+- 🧠 Passionate about front-end & UI development
+- 📂 I share my projects here as I grow on my developer journey  
+- 🎯 Goal: Build real-world applications & become a full-stack developer  
 
 ---
 
@@ -28,12 +29,15 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mustafa-Oktay&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Oktay&layout=compact&theme=tokyonight" />
+## 🌎 Connect With Me
+<p>
+  <a href="https://instagram.com/musse.27" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
 </p>
 
 ---
 
-## 🌍 Connect
+<div align="center">
+  <h3>⭐ Thanks for visiting my profile! Stay tuned for more projects. 🚀</h3>
+</div>
